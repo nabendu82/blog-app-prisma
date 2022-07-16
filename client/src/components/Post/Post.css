@@ -13,3 +13,18 @@
 .post__header h4 {
   font-size: 0.8rem;
 }
+
+.post__btn{
+  padding: 4px 6px;
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  border-radius: 5px;
+}
+
+.post__btn:hover{
+  cursor: pointer;
+  background-color: darkmagenta;
+}
